@@ -1,0 +1,28 @@
+{
+  "properties": [
+    {
+      "name": "baseCurrency",
+      "type": "java.lang.String",
+      "description": "Description for baseCurrency."
+    },
+    {
+      "name": "GiphyUrl",
+      "type": "java.lang.String",
+      "description": "Description for GiphyUrl."
+    },
+    {
+      "name": "OpenExchangeRatesUrl",
+      "type": "java.lang.String",
+      "description": "Description for OpenExchangeRatesUrl."
+    },
+    {
+      "name": "GiphyApiId",
+      "type": "java.lang.String",
+      "description": "Description for GiphyApiId."
+    },
+    {
+      "name": "OpenExchangeRatesApiId",
+      "type": "java.lang.String",
+      "description": "Description for OpenExchangeRatesApiId."
+    }
+  ] }
